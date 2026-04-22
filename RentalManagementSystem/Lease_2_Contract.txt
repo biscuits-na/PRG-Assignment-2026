@@ -1,0 +1,13 @@
+=========== LEASE CONTRACT ===========
+
+Lease ID: 2
+Tenant ID: 1
+Property ID: 1
+Start Date: 2026-01-01
+End Date: 2026-12-31
+Monthly Rent: 9500.0
+Security Deposit: 9500.0
+Payment Due Day: 5
+Grace Period: 3
+Late Penalty Rate: 0.1
+Status: Active

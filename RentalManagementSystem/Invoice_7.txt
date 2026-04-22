@@ -1,0 +1,11 @@
+=========== TENANT INVOICE ===========
+
+Invoice Payment ID: 7
+Lease ID: 4
+Tenant ID: 1
+Property ID: 5
+Payment Date: 2026-03-12
+Amount Paid: 3000.0
+Payment Status: Paid
+Penalty Amount: 0.0
+Outstanding Balance: 2500.0
